@@ -4,3 +4,5 @@ AliceInCradle Officially Licensed Mirror Site
 https://aliceincradle.com
 
 Lite Version for Backup Website
+# Attention
+This version is an auto-generated version and contains a lot of useless code. This version will not be used on the official website.
