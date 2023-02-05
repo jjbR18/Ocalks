@@ -1,7 +1,7 @@
 # AliceInCradle
 AliceInCradle Officially Licensed Mirror Site
 
-https://aliceincradle.com
+https://aliceincradle.org/zh-hans/game
 
 Lite Version for Alternate Website
 # Attention
